@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi! I'm Stephen Craine J. Nailes, <br>a 20-year-old student currently studying at the University of the Immaculate Conception <br>I'm passionate about learning, building, and exploring new ideas in technology. <br>As a student, I'm constantly improving my skills and working on projects that help me grow as a developer.<br><br>
 
 # 💻 Tech Stack:
